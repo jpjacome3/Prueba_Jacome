@@ -45,6 +45,7 @@ public class Estudiantes {
     }
     
     public double porcentaje_h(){
+        promh = nota;
         
     }
 
