@@ -28,15 +28,13 @@ public class Prueba_estudiantes {
         int aniof;
         double precio;
         System.out.print("Promedio de notas: ");
-        marca= = datos.nextLine();
+       
         System.out.print("porcentaje de hombres por encima del promedio:");
-        aniof=datos.nextLine();
+       
         System.out.print("porcentaje de mujeres por encima del promedio: ");
-        precio=datos.nextLine();
+     
         System.out.print("estudiante con la mas alta nota ");
-        precio=datos.nextLine();
-        veh[i]=new Vehiculo(marca,aniof,precio);
-        datos.nextLine();
+ 
     }
     
 }
